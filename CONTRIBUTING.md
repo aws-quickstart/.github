@@ -25,7 +25,7 @@ reported the issue. Please try to include as much information as you can. Detail
 
 
 ## Contributing via Pull Requests
-Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that:
+Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure the following:
 
 1. You are working against the latest source on the *main* branch.
 2. You check existing open, and recently merged, pull requests to make sure someone else hasn't addressed the problem already.
